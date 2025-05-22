@@ -263,6 +263,7 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  border-radius: 0px 0px 4px 4px;
 }
 .section-team-img {
 }
@@ -292,6 +293,7 @@ img {
 
 .section-portfolio-list {
   background-color: #fff;
+  row-gap: 48px;
 }
 
 .container-list {
