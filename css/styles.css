@@ -40,6 +40,10 @@ button {
   margin: 0 auto;
 }
 
+.section {
+  padding: 120px 0;
+}
+
 /**=====Header=====*/
 
 .header {
